@@ -1,8 +1,4 @@
-System.register("chunks:///_virtual/low1_2compress", [], function () {
-  return {
-    execute: function () {}
-  };
-});
+System.register("chunks:///_virtual/low1_2compress",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
   r('virtual:///prerequisite-imports/low1_2compress', 'chunks:///_virtual/low1_2compress'); 
